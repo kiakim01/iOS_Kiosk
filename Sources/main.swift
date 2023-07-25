@@ -54,3 +54,4 @@ let people: [Person] = [
 firstScreen(people: people)
 
 //test log
+//test log2
